@@ -27,6 +27,9 @@ This repository contains a collection of Java Server Pages (JSP) projects develo
 
 8. **Session Tracking**:
    - Implements session tracking using both Cookies and HttpSession to manage user states across multiple requests.
+  
+9. **Maven SendEmail**:
+   - A program demonstrating how to send emails using JavaMail API in a Maven project setup.
 
 ## Technology Stack
 
@@ -35,6 +38,8 @@ This repository contains a collection of Java Server Pages (JSP) projects develo
 - **Apache Tomcat Server**
 - **JDBC (Java Database Connectivity)**
 - **Remote Method Invocation (RMI)**
+- **Maven**
+-  **JavaMail API** 
 
 ## Setup Instructions
 
@@ -49,5 +54,5 @@ This repository contains a collection of Java Server Pages (JSP) projects develo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
